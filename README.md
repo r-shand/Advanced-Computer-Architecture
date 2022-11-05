@@ -1,6 +1,6 @@
 # cs320
 Advanced Computer Architecture
 
-Project 1: Branch Predicture
+Project 1: Branch Predictor
 
-Project 2: Multi structured cache
+Project 2: Multi Structured Cache
